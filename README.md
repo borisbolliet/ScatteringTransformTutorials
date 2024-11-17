@@ -1,6 +1,6 @@
 # ScatteringTransformTutorials
 
-Tutorial notebooks to learn the amazing scattering transform.
+Tutorial notebooks to learn about the amazing scattering transform.
 
 Seminal works include:
 
@@ -9,8 +9,8 @@ Seminal works include:
 - [Anden & Mallat (2014)](https://arxiv.org/pdf/1304.6763) (signal processing)
 - [Allys et al (2019)](https://arxiv.org/abs/1905.01372) (astrophysics)
 - [Regaldo-Saint Blancard et al (2021)](https://arxiv.org/abs/2102.03160) (astrophysics)
-- [Morel et al (2022)](https://arxiv.org/abs/2204.10177) (finance)
-- [Cheng et al (2023)](https://arxiv.org/pdf/2306.17210) (physics)
+- [Morel et al (2022)](https://arxiv.org/abs/2204.10177) [finance]
+- [Cheng et al (2023)](https://arxiv.org/pdf/2306.17210) [physics]
 
 
 Solves and builds upon tutorials found in:
