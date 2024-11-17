@@ -2,7 +2,7 @@
 
 Tutorial notebooks to learn about the amazing scattering transform.
 
-Seminal works include:
+Seminal references include:
 
 - [Mallat (2012)](https://arxiv.org/abs/1101.2286) [signal processing, functional analysis]
 - [Bruna & Mallat (2012)](https://arxiv.org/abs/1203.1513) [signal processing, image recognition]
@@ -21,3 +21,5 @@ Solves and builds upon tutorials found in:
 - [RudyMorel/scattering_spectra](https://github.com/RudyMorel/scattering_spectra)
 
 Run on GPUs, if you can. 
+
+Useful ressource: [deeplearning-math.github.io](https://deeplearning-math.github.io)
