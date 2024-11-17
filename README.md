@@ -1,6 +1,11 @@
 # ScatteringTransformTutorials
 
-Tutorial notebooks to learn about the amazing scattering transform.
+First, watch
+
+- [Stéphane Mallat 1: Mathematical Mysteries of Deep Neural Networks](https://www.youtube.com/watch?v=0wRItoujFTA),
+- [Stéphane Mallat 2: Mathematical Mysteries of Deep Neural Networks](https://www.youtube.com/watch?v=kZkjb52zh5k).
+
+Then, study these tutorial notebooks to learn about the amazing scattering transform.
 
 Seminal references include:
 
