@@ -4,7 +4,7 @@ Tutorial notebooks to learn about the amazing scattering transform.
 
 Seminal works include:
 
-- [Mallat (2012)](https://arxiv.org/abs/1101.2286) [signal processing]
+- [Mallat (2012)](https://arxiv.org/abs/1101.2286) [signal processing, functional analysis]
 - [Bruna & Mallat (2012)](https://arxiv.org/abs/1203.1513) [signal processing, image recognition]
 - [Anden & Mallat (2014)](https://arxiv.org/pdf/1304.6763) [signal processing, audio classification]
 - [Allys et al (2019)](https://arxiv.org/abs/1905.01372) [astrophysics]
