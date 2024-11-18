@@ -1,9 +1,15 @@
 # ScatteringTransformTutorials
 
+Current tutorials include:
+
+- [learning_scattering_transforms_1d](https://github.com/borisbolliet/ScatteringTransformTutorials/blob/main/learning_scattering_transforms_1d.ipynb)
+
 First, watch
 
 - [Stéphane Mallat 1: Mathematical Mysteries of Deep Neural Networks](https://www.youtube.com/watch?v=0wRItoujFTA),
 - [Stéphane Mallat 2: Mathematical Mysteries of Deep Neural Networks](https://www.youtube.com/watch?v=kZkjb52zh5k).
+
+Slides are stored here ([part 1](https://github.com/borisbolliet/ScatteringTransformTutorials/blob/main/CadixCours2016_partA.pdf), [part 2](https://github.com/borisbolliet/ScatteringTransformTutorials/blob/main/CadixCours2016_partB.pdf)).
 
 Then, study these tutorial notebooks to learn about the amazing scattering transform.
 
