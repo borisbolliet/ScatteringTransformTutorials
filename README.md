@@ -24,6 +24,12 @@ Seminal references include:
 - [Cheng et al (2023)](https://arxiv.org/pdf/2306.17210) [physics]
 
 
+Very useful material include the PhD thesis of 
+
+- [Irène Waldspurger (2015)](https://theses.hal.science/tel-01770221v1/file/Waldspurger-2015-These.pdf)
+- [Vincent Lonstalent (2017)](https://theses.hal.science/tel-01559667/file/LOSTANLEN_2017_diffusion.pdf)
+
+
 Solves and builds upon tutorials found in:
 
 - [kymatio](https://www.kymat.io)
